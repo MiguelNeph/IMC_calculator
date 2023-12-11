@@ -1,0 +1,11 @@
+.underweight, .overweight{
+    background-color: yellow;
+}
+
+.normal {
+    background-color: green;
+}
+
+.obese{
+    background-color: red;
+}
